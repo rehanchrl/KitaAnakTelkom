@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Exo:900|Hind+Guntur');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Hind Guntur', sans-serif;
+}
+
+.nopadding {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+
+.card{
+  margin-bottom: 20px;
+}
